@@ -7,6 +7,9 @@ A fully responsive and customizable React carousel, ideal for showcasing logos, 
 - Fully customizable via props.
 - Lightweight and easy to integrate.
 
+![](https://gist.github.com/joaquinvazquezgarcia/7ea83591061ee4b0813437291df0e1fa#file-demo1-gif))
+![](https://gist.github.com/joaquinvazquezgarcia/7ea83591061ee4b0813437291df0e1fa#file-demo2-gif))
+
 <br>
 
 ## Installation
