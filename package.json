@@ -1,0 +1,34 @@
+{
+  "name": "react-logos-carousel",
+  "version": "1.0.2",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "keywords": [
+    "react",
+    "slider",
+    "carousel",
+    "responsive",
+    "logos",
+    "images",
+    "display",
+    "react carousel"
+  ],
+  "author": "Joaquin Vazquez Garcia",
+  "license": "ISC",
+  "description": "A responsive customizable React carrousel, perfect for displaying logos or images.",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "babel-loader": "^9.2.1",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
