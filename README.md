@@ -1,6 +1,6 @@
 # logos-carousel-react
 
-A fully responsive and customizable React carousel, ideal for showcasing logos, images, or other visual content.
+Fully responsive and customizable React carousel, ideal for showcasing logos, images, or other visual content.
 **Features:**
 
 - Smooth infinite scrolling.
